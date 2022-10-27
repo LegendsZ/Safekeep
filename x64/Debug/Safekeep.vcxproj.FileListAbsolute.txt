@@ -1,0 +1,14 @@
+C:\Users\Akkshai\source\repos\Safekeep\x64\Debug\Safekeep.main.resources
+C:\Users\Akkshai\source\repos\Safekeep\x64\Debug\Safekeep.vcxproj.GenerateResource.cache
+C:\Users\Akkshai\source\repos\Safekeep\x64\Debug\Safekeep.exe
+C:\Users\Akkshai\source\repos\Safekeep\x64\Debug\Safekeep.vcxproj.AssemblyReference.cache
+C:\Users\WINDOWS\source\repos\Safekeep\x64\Debug\Safekeep.vcxproj.AssemblyReference.cache
+C:\Users\WINDOWS\source\repos\Safekeep\x64\Debug\Safekeep.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\WINDOWS\source\repos\Safekeep\x64\Debug\Safekeep.main.resources
+C:\Users\WINDOWS\source\repos\Safekeep\x64\Debug\Safekeep.vcxproj.GenerateResource.cache
+C:\Users\WINDOWS\source\repos\Safekeep\x64\Debug\Safekeep.exe
+C:\Akkshai's Projects\Safekeep\x64\Debug\Safekeep.vcxproj.AssemblyReference.cache
+C:\Akkshai's Projects\Safekeep\x64\Debug\Safekeep.vcxproj.SuggestedBindingRedirects.cache
+C:\Akkshai's Projects\Safekeep\x64\Debug\Safekeep.main.resources
+C:\Akkshai's Projects\Safekeep\x64\Debug\Safekeep.vcxproj.GenerateResource.cache
+C:\Akkshai's Projects\Safekeep\x64\Debug\Safekeep.exe

@@ -1,0 +1,4 @@
+C:\Users\Akkshai\source\repos\Safekeep\Debug\Safekeep.vcxproj.AssemblyReference.cache
+C:\Users\Akkshai\source\repos\Safekeep\Debug\Safekeep.main.resources
+C:\Users\Akkshai\source\repos\Safekeep\Debug\Safekeep.vcxproj.GenerateResource.cache
+C:\Users\Akkshai\source\repos\Safekeep\Debug\Safekeep.exe
