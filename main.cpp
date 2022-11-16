@@ -77,6 +77,7 @@ System::Void Safekeep::main::main_Load(System::Object^ sender, System::EventArgs
     bool conSucceed = SQLConnector::startConnection();
     if (!conSucceed) {
         MessageBox::Show("Failed to connect to MySQL!");
+		txtInput->Enabled = false;
     }
     return System::Void();
 }

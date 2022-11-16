@@ -9,6 +9,8 @@ static DataRowCustom* MyRecord; //user data
 
 static std::string toStandardString(System::String^ string);
 
+
+
 namespace Safekeep {
 
 	using namespace System;
@@ -17,7 +19,6 @@ namespace Safekeep {
 	using namespace System::Windows::Forms;
 	using namespace System::Data;
 	using namespace System::Drawing;
-
 
 	
 
@@ -55,7 +56,6 @@ namespace Safekeep {
 
 	private: System::Windows::Forms::Panel^ pnlToolbar;
 	private: System::Windows::Forms::Button^ btnExit;
-
 
 	protected:
 
